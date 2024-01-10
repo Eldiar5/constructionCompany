@@ -1,0 +1,12 @@
+.partfolio__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 120px 0 0 0;
+}
+
+.partfolio__img {
+    max-width: 365px;
+    max-height: 400px;
+    margin: 0 0 5px 0;
+}

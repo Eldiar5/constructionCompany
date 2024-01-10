@@ -1,0 +1,44 @@
+.arena__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.arena__title {
+    color: #404149;
+    font-family: sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 250px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.arena__item_title {
+    color: #404149;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.arena__item_description {
+    color: #999;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-width: 350px;
+}
+
+.arena__line {
+    width: 55px;
+    height: 6px;
+    background: #F7654A;
+    margin: 45px 0 15px 0;
+}
+
+.arena__item {
+    max-width: 350px;
+}
